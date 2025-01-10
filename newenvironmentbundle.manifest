@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2873807914
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c7c526b9fb2371a47a568a12d8f32633
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c7c526b9fb2371a47a568a12d8f32633
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sample Assets/Design/For_Update/19.png
+- Assets/Sample Assets/Design/For_Update/Untitled_design_-_37.png
+Dependencies: []
